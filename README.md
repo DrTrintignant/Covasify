@@ -1,4 +1,5 @@
-# Covasify v1.0.0
+COVASIFY PLUGIN FOR COVAS NEXT
+================================
 
 Voice-controlled Spotify integration for COVAS NEXT. Play music, control playback, and bind tracks to custom voice commands.
 
