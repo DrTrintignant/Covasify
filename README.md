@@ -127,3 +127,4 @@ Covasify/
 **Author**: D. Trintignant  
 **COVAS NEXT**: https://ratherrude.github.io/Elite-Dangerous-AI-Integration/  
 **Spotify API**: Spotipy library
+**License**: MIT
